@@ -25,6 +25,7 @@
   color: #000;
   font-size: 18px;
   line-height: 21px;
+  text-underline-offset: 4px;
 }
 
 .header__link_active {
@@ -50,8 +51,17 @@
   width: 240;
   color: #000;
   font-size: 18px;
+  font-style: normal;
   line-height: 21px;
   white-space: nowrap;
+}
+
+.phone_number {
+  text-underline-offset: 4px;
+}
+
+.email {
+  text-underline-offset: 4px;
 }
 
 .header__address {
@@ -79,10 +89,12 @@
 
 .text-center {
   text-align: center;
+  margin-top: 20px;
 }
 
 .text-right {
   text-align: right;
+  margin-top: 20px;
 }
 
 .cover {
@@ -235,6 +247,7 @@
   font-size: 20px;
   line-height: 23px;
   text-decoration: underline;
+  text-underline-offset: 4px;
 }
 .about {
   display: grid;
@@ -306,6 +319,7 @@
   color: #000;
   font-size: 18px;
   line-height: 21px;
+  text-underline-offset: 4px;
 }
 
 .footer__menu-link_active {
