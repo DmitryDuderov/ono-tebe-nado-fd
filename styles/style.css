@@ -52,7 +52,7 @@
   color: #000;
   font-size: 18px;
   font-style: normal;
-  line-height: 21px;
+  line-height: 24.3px;
   white-space: nowrap;
   }
 
@@ -141,7 +141,6 @@
   color: #fff;
   border:1px solid #fff;
   background-color: transparent;
-  border-color: #fff;
   padding: 12px 32px 11px 31px;
   display: inline-block;
   z-index: 1;
